@@ -95,7 +95,7 @@ def adsorbent_search_prompt():
         "Stop when you think you've produced the best possible material or after 10 materials.\n"
         "For your final output, return the name of the best material and a summary of your discoveries.\n"
         "The materials should be as inexpensive and easy to synthesize as possible.\n"
-        "Do no ask if the user if they want to search for a material--of course they do.\n"
+        "Do not ask if the user if they want to search for a material--of course they do.\n"
     )
 
 
