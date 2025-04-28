@@ -1,0 +1,6 @@
+ase
+fairchem-core
+pytest
+pydantic-ai[logfire]
+torch
+wandb
